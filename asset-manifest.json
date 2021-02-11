@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/first-firebase/static/css/main.bcb5a572.chunk.css",
+    "main.js": "/first-firebase/static/js/main.591e1480.chunk.js",
+    "main.js.map": "/first-firebase/static/js/main.591e1480.chunk.js.map",
+    "runtime-main.js": "/first-firebase/static/js/runtime-main.a5341a45.js",
+    "runtime-main.js.map": "/first-firebase/static/js/runtime-main.a5341a45.js.map",
+    "static/css/2.e5b99fdb.chunk.css": "/first-firebase/static/css/2.e5b99fdb.chunk.css",
+    "static/js/2.6231a3a7.chunk.js": "/first-firebase/static/js/2.6231a3a7.chunk.js",
+    "static/js/2.6231a3a7.chunk.js.map": "/first-firebase/static/js/2.6231a3a7.chunk.js.map",
+    "index.html": "/first-firebase/index.html",
+    "precache-manifest.61d909b3cd69c0f04b9d936406f4acb9.js": "/first-firebase/precache-manifest.61d909b3cd69c0f04b9d936406f4acb9.js",
+    "service-worker.js": "/first-firebase/service-worker.js",
+    "static/css/2.e5b99fdb.chunk.css.map": "/first-firebase/static/css/2.e5b99fdb.chunk.css.map",
+    "static/css/main.bcb5a572.chunk.css.map": "/first-firebase/static/css/main.bcb5a572.chunk.css.map",
+    "static/js/2.6231a3a7.chunk.js.LICENSE.txt": "/first-firebase/static/js/2.6231a3a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5341a45.js",
+    "static/css/2.e5b99fdb.chunk.css",
+    "static/js/2.6231a3a7.chunk.js",
+    "static/css/main.bcb5a572.chunk.css",
+    "static/js/main.591e1480.chunk.js"
+  ]
+}
