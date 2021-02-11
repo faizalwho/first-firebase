@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b9b37e38e97e874dd5ff1894e451bf9",
+    "revision": "48c99b4a13ec8b5ddc62f79b8cf2e691",
     "url": "/first-firebase/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/first-firebase/static/css/2.e5b99fdb.chunk.css"
   },
   {
-    "revision": "3686f08a4b001939af33",
+    "revision": "6631e3405157aab9daae",
     "url": "/first-firebase/static/css/main.bcb5a572.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/first-firebase/static/js/2.6231a3a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3686f08a4b001939af33",
-    "url": "/first-firebase/static/js/main.591e1480.chunk.js"
+    "revision": "6631e3405157aab9daae",
+    "url": "/first-firebase/static/js/main.76567daa.chunk.js"
   },
   {
     "revision": "701592dc3d881fb7fcc9",
